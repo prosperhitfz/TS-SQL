@@ -13,7 +13,7 @@ This repository releases the modified Spider development set of TS-SQL (named 'd
 xu2025tssql,
 title={{TS}-{SQL}: Test-driven Self-refinement for Text-to-{SQL}},
 author={Wenbo Xu and Haifeng Zhu and Liang Yan and Chuanyi Liu and Peiyi Han and Shaoming Duan and Jeff Z. Pan},
-booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
-year={2025},
-url={https://openreview.net/forum?id=ICSRKfy0OA}
+booktitle={Findings of the Association for Computational Linguistics: EMNLP 2025},
+pages={2864--2889},
+year={2025}
 }
